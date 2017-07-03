@@ -1,0 +1,22 @@
+* {
+   margin: 0px;
+   padding: 0px;
+}
+
+body{
+	background-color: #eeeeee;
+}
+
+#page-container 
+{
+	background-color: #fff;
+	width: 1200px;
+	margin: auto;
+	padding: 10px;
+	border: gray outset 1px;	
+}
+	
+h1, h2, h3, p, .price{
+	font-family: Helvetica;
+}
+
